@@ -46,16 +46,16 @@
   /*
     Change your friends icon image zoom
   */
-  --home-icon-image-zoom: 200%;
+  --home-icon-image-zoom: 150%;
 
   /*
     Server Listing Width
-    Single Column:  246px
+    Single Column:  124px
     Double Column:  0px
     Triple Column:  0px
     Quad Column:    0px
   */
-  --server-listing-width: 246px;
+  --server-listing-width: 124px;
 
   /*
     Font Size
